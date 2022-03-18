@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Karaseva Ekaterina
+Main-Class: info.kgeorgiy.ja.karaseva.implementor.Implementor
